@@ -8,7 +8,7 @@ int main() {
     int temp3;
 
     // Prompting user for temperature readings
-    cout << "\nEnter temperature reading 1: ";
+    cout << "\nEnter temperature reading 1: ";//format output for user ease
     cin >> temp1;
 
     cout << "Enter temperature reading 2: ";
