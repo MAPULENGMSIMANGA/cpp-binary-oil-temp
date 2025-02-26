@@ -3,6 +3,7 @@ using namespace std;
 //9908061136086
 
 int main() {
+    //initialise variables
     int temp1;
     int temp2;
     int temp3;
