@@ -24,14 +24,10 @@ int main() {
     } else if (temp2 - temp1 < 10) {
         cout << "Increase the fryer heat before taking the third reading." << endl
     }
-
     // Checking the third reading temperature range
     if (temp3 > 150 && temp3 < 190) {
         cout << "You may start frying magwinya." << endl
     } else {
-        cout << "Oil is not hot enough for frying." << endl;
-    }
-
-    return 0;
-}
+        cout << "Oil is not hot enough for frying." << endl;}
+    return 0;}
 
